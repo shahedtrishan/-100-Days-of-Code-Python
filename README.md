@@ -1,4 +1,4 @@
-#100-Days-of-Code-Python
+# 100-Days-of-Code-Python
 
 Welcome to my 100 Days of Python Learning Code Journey repository!
 
